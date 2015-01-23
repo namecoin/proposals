@@ -5,7 +5,7 @@ Only RFCs listed as Active are accepted standards.  Accpetance is dependent upon
 
 [list]:https://groups.google.com/forum/#!forum/ifa-wg/
 
-| Number | Title                    | Type  | Status   |
-|--------|--------------------------|-------|----------|
-| 00     | RFC Guidelines & Process | Draft | Process  |
-| 01     | Domain Names             | Draft | Standard |
+| Number | Title                    | Type     | Status   |
+|--------|--------------------------|----------|----------|
+| 00     | RFC Guidelines & Process | Process  | Draft    |
+| 01     | Domain Names             | Standard | Draft    |
