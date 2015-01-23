@@ -7,5 +7,5 @@ Only RFCs listed as Active are accepted standards.  Accpetance is dependent upon
 
 | Number | Title                    | Type  | Status   |
 |--------|--------------------------|-------|----------|
-| 0001   | RFC Guidelines & Process | Draft | Process  |
-| 0002   | Domain Names             | Draft | Standard |
+| 00     | RFC Guidelines & Process | Draft | Process  |
+| 01     | Domain Names             | Draft | Standard |
