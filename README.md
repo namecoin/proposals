@@ -6,10 +6,10 @@ Only RFCs listed as Active are accepted standards.  Acceptance is dependent upon
 
 [list]:https://groups.google.com/forum/#!forum/ifa-wg/
 
-| Number | Title                    | Type     | Status   |
-|--------|--------------------------|----------|----------|
-| 00[00] | RFC Guidelines & Process | Process  | Draft    |
-| 01[01] | Domain Names             | Standard | Draft    |
+| Number   | Title                    | Type     | Status   |
+|----------|--------------------------|----------|----------|
+| [00][00] | RFC Guidelines & Process | Process  | Draft    |
+| [01][01] | Domain Names             | Standard | Draft    |
 
 [00]:https://github.com/ifa-wg/rfc/blob/master/rfc-0000.md
 [01]:https://github.com/ifa-wg/rfc/blob/master/rfc-0001.md
