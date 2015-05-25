@@ -19,12 +19,12 @@ Discussion relevant to a **pending** draft should, whenever possible, take the f
 
 You can clone this repository using:
 
-	git clone https://github.com/thlorenz/doctoc ifa-rfc
+	git clone https://github.com/ifa-wg/rfc ifa-rfc
 
 Before submitting a PR for a new RFC or to update an existing RFC, install and run DocToc:
 
 	npm install -g doctoc
-	doctoc path/to/ifa-000x.md --title '**Table of Contents**'
+	doctoc ifa-rfc/ifa-000x.md --title '**Table of Contents**'
 
 You must include DocToc markup in the document before running DocToc:
 
