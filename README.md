@@ -1,10 +1,10 @@
 IFA RFCs
 ========
-People wishing to submit RFCs, first should propose their idea to the relevant communities and open a pull request as outlined in [RFC Guidelines & Process][0000].  After editors have checked the document for copy-editing and sanity checks, they will accept the PR.
+People wishing to submit RFCs should first should propose their idea to the relevant communities and then submit a new RFC as outlined in the [RFC Guidelines & Process][0000].
 
-Discussion should take the form of Gitub issue tickets whenever possible and should reference the RFC or specific pull requests to help ensure that all discussion is captured.  
+Discussion relevant to the draft should take the form of Gitub issue tickets whenever possible. Github tickets should reference the RFC and/or pull requests to help ensure that all discussion is captured.  
 
-Only RFCs listed as Active are accepted standards.  Acceptance is dependent upon rough consensus and running code.
+*Note: this ToC does not list RFCs that have been deferred, rejected, or withdrawn.*
 
 | Number       | Title                    | Type     | Status   |
 |--------------|--------------------------|----------|----------|
