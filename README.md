@@ -1,10 +1,10 @@
 IFA Proposals
 =============
 
-| Number       | Title                    | Type     | Status   |
-|--------------|--------------------------|----------|----------|
-| [0000][0000] | RFC Guidelines & Process | Process  | Draft    |
-| [0001][0001] | Domain Names             | Standard | Draft    |
+| Number       | Title                         | Type     | Status   |
+|--------------|-------------------------------|----------|----------|
+| [0000][0000] | Proposal Guidelines & Process | Process  | Draft    |
+| [0001][0001] | Domain Names                  | Standard | Draft    |
 
 *This list does not contain proposals that have been deferred, rejected, or withdrawn.*
 
@@ -13,7 +13,7 @@ IFA Proposals
 
 How-To
 =======
-Those wishing to submit a proposal should first should bring their idea to the relevant communities and then submit a new RFC as outlined in the [RFC Guidelines & Process][0000].
+Those wishing to submit a proposal should first should bring their idea to the relevant communities and then submit a new proposal as outlined in the [Proposal Guidelines & Process][0000].
 
 Discussion relevant to a pending draft should, whenever possible, take the form of Gitub issue tickets. Github tickets should reference the proposal and/or pull requests to help ensure that all discussion is captured.  
 
