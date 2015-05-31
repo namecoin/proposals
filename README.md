@@ -5,11 +5,13 @@ IFA Proposals
 |--------------|-------------------------------|----------|----------|
 | [0000][0000] | Proposal Guidelines & Process | Process  | Draft    |
 | [0001][0001] | Domain Names                  | Standard | Draft    |
+| [0002][0002] | Domain Names - Non-DNS Types  | Standard | Draft    |
 
 *This list does not contain proposals that have been deferred, rejected, or withdrawn.*
 
 [0000]:https://github.com/ifa-wg/proposals/blob/master/ifa-0000.md
 [0001]:https://github.com/ifa-wg/proposals/blob/master/ifa-0001.md
+[0002]:https://github.com/ifa-wg/proposals/blob/master/ifa-0002.md
 
 How-To
 =======
